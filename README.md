@@ -1,2 +1,3 @@
 # mini-exchange-simulator
 Type A Python-based financial market simulator tracking stock prices and trading volumes.
+To model how financial markets function, I developed a Python-based stock price and volume simulator that mimics real-time market dynamics and random price fluctuations. The project addressed the challenge of visualizing how stochastic market pushes and sudden news shocks impact asset valuations and trading activity. Through this simulation, I learned that stock prices do not move in straight lines; rather, they exhibit continuous volatility driven by shifting supply-demand pressures and external events. I also observed how volume spikes correlate with sharp price movements, deepening my understanding of market microstructure and quantitative finance.
